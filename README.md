@@ -12,8 +12,8 @@
 
     4.3. Используйте по выбору одно из библиотек UI Components. Используйте одну из них для стилизации вашего приложения.
 
-      4.3.1. https://react-bootstrap.github.io/getting-started/introduction/
+        4.3.1. https://react-bootstrap.github.io/getting-started/introduction/
 
-      4.3.2. https://ant.design/docs/react/getting-started
+        4.3.2. https://ant.design/docs/react/getting-started
       
-      4.3.3. https://mui.com/getting-started/installation/
+        4.3.3. https://mui.com/getting-started/installation/
